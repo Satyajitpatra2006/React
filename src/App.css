@@ -1,0 +1,24 @@
+*{
+  font-family: serif;
+  color: black;
+}/* 
+body{
+  background: black !important;
+  color: white !important;
+} */
+.H-logo{
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+}
+.serif{
+  font-family: serif;
+  font-weight: 100;
+  color: rgba(0,0,0,0.5);
+}
+.form-control{
+  color: blue !important;
+}
+.cursive{
+  font-family: cursive;
+}
